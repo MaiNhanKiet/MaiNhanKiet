@@ -24,21 +24,16 @@
 ### 🏢 Organizations
 
 <p>
-  <a href="https://github.com/team5iuthayducdnm" target="_blank"
-   style="display: inline-flex; align-items: center; gap: 10px; text-decoration: none; color: #24292f; font-weight: bold; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; transition: transform 0.2s, color 0.2s;"
-   onmouseover="this.style.color='#0366d6'; this.style.transform='scale(1.05)'"
-   onmouseout="this.style.color='#24292f'; this.style.transform='scale(1)'">
-  <img src="https://avatars.githubusercontent.com/u/211839241?s=200&v=4" width="40" height="40" alt="team5iuthayducdnm" style="border-radius: 50%; border: 1px solid #ddd;">
-  @FIVE-AE-SIEU-NHAN
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/team5iuthayducdnm" target="_blank"
-   style="display: inline-flex; align-items: center; gap: 10px; text-decoration: none; color: #24292f; font-weight: bold; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; transition: transform 0.2s, color 0.2s;"
-   onmouseover="this.style.color='#0366d6'; this.style.transform='scale(1.05)'"
-   onmouseout="this.style.color='#24292f'; this.style.transform='scale(1)'">
-<img src="https://avatars.githubusercontent.com/u/200702188?s=200&v=4" width="40" height="40" alt="team5iuthayducdnm" style="border-radius: 50%; border: 1px solid #ddd;">
-@team5iuthayducdnm
-</a>
+  <a href="https://github.com/team5iuthayducdnm" target="_blank" style="display: inline-flex; align-items: center; gap: 10px; text-decoration: none; color: #24292f; font-weight: bold; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+    <img src="https://avatars.githubusercontent.com/u/211839241?s=200&v=4" width="40" height="40" alt="FIVE-AE-SIEU-NHAN" style="border-radius: 50%; border: 1px solid #ddd;">
+    @FIVE-AE-SIEU-NHAN
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/team5iuthayducdnm" target="_blank" style="display: inline-flex; align-items: center; gap: 10px; text-decoration: none; color: #24292f; font-weight: bold; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+    <img src="https://avatars.githubusercontent.com/u/200702188?s=200&v=4" width="40" height="40" alt="team5iuthayducdnm" style="border-radius: 50%; border: 1px solid #ddd;">
+    @team5iuthayducdnm
+  </a>
+</p>
 
 ---
 
