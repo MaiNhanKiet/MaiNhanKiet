@@ -24,21 +24,9 @@
 ### 🏢 Organizations
 
 <div style="display: flex; gap: 5px">
-<div style="display: flex; gap: 5px"> 
-    <img src="https://avatars.githubusercontent.com/u/211839241?s=200&v=4" width="40" height="40" alt="FIVE-AE-SIEU-NHAN" style="border-radius: 50%; border: 1px solid #ddd;">
-    <a href="https://github.com/FIVE-AE-SIEU-NHAN" target="_blank"
-     style="display: inline-flex; align-items: center; gap: 10px; text-decoration: none; color: #24292f; font-weight: bold; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-     @FIVE-AE-SIEU-NHAN
-  </a>
-</div>
+    <img src="https://avatars.githubusercontent.com/u/211839241?s=200&v=4" width="50" height="50" alt="FIVE-AE-SIEU-NHAN" style="border-radius: 50%; border: 1px solid #ddd;">
   &nbsp;&nbsp;
-  <div style="display: flex; gap: 5px"> 
-    <img src="https://avatars.githubusercontent.com/u/200702188?s=200&v=4" width="40" height="40" alt="FIVE-AE-SIEU-NHAN" style="border-radius: 50%; border: 1px solid #ddd;">
-    <a href="https://github.com/team5iuthayducdnm" target="_blank"
-     style="display: inline-flex; align-items: center; gap: 10px; text-decoration: none; color: #24292f; font-weight: bold; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-     @team5iuthayducdnm
-  </a>
-</div>
+    <img src="https://avatars.githubusercontent.com/u/200702188?s=200&v=4" width="50" height="50" alt="FIVE-AE-SIEU-NHAN" style="border-radius: 50%; border: 1px solid #ddd;">
 </div>
 
 ---
